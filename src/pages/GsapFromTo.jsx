@@ -3,7 +3,7 @@ import gsap from "gsap";
 
 
 const GsapFromTo = () => {
-  // TODO: Implement the gsap.fromTo() method
+  // TODO: Implementing the gsap.fromTo() method
   useGSAP (() =>{
     gsap.fromTo("#red-box",{
       x: 0,
